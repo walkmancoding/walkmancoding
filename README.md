@@ -22,13 +22,11 @@ A detail-oriented Computer Science & Engineering undergraduate specializing in A
 
 <div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nextjs,nodejs,arduino,aws,git,github,matlab,mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nextjs,nodejs,arduino,aws,git,github" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,oracle,powerbi,pytorch,sklearn,tensorflow,gcp,ps,ai" />
-</p>
+<br>
+
+<img src="https://skillicons.dev/icons?i=matlab,mongodb,mysql,opencv,oracle,powerbi,pytorch,sklearn,tensorflow,gcp,ps,ai" />
 
 </div>
 <br>
