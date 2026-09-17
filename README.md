@@ -4,7 +4,7 @@ A Computer Science & Engineering student specializing in Cybersecurity who enjoy
 
 <br>
 
-## Languages and Tools
+### Languages and Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,react,nodejs,mysql,mongodb,flask,tensorflow,pytorch,git,github,aws,gcp" />
@@ -16,11 +16,13 @@ A Computer Science & Engineering student specializing in Cybersecurity who enjoy
 
 <br><br>
 
-## Links
+### Links
 
 <br>
 
 💼 **Connect with me**
+
+<br>
 
 <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
 
@@ -28,11 +30,15 @@ A Computer Science & Engineering student specializing in Cybersecurity who enjoy
 
 📬 **How to reach me**
 
+<br>
+
 <a href="mailto:swapnilroygupta@gmail.com">swapnilroygupta@gmail.com</a>
 
 <br><br>
 
 🚀 **Currently working on**
+
+<br>
 
 <a href="YOUR_HARMONIX_LINK">HARMONIX — Euphonic Intelligence</a>
 
