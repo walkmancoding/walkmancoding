@@ -16,46 +16,46 @@ A detail-oriented Computer Science & Engineering undergraduate specializing in A
 <br>
 
 <br>
-
-🎤 **Singing** &nbsp;&nbsp; • &nbsp;&nbsp;
-🎚️ **Audio Engineering** &nbsp;&nbsp; • &nbsp;&nbsp;
-🎨 **Graphic Design** &nbsp;&nbsp; • &nbsp;&nbsp;
-🤖 **Artificial Intelligence**
-
-<br><br>
-
-<h3>🔗 Links</h3>
-
 <br>
 
-💼 <b>Connect with me</b>
-
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+🎤 Singing &nbsp;&nbsp; • &nbsp;&nbsp;
+🎚️ Audio Engineering &nbsp;&nbsp; • &nbsp;&nbsp;
+🎨 Graphic Design &nbsp;&nbsp; • &nbsp;&nbsp;
+🤖 Artificial Intelligence
 
 <br><br><br>
 
-📬 <b>How to reach me</b>
+### 🔗 Links
+
+<br>
+
+💼 **Connect with me**
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+
+<br><br>
+
+📬 **How to reach me**
 
 <br>
 
 <a href="mailto:swapnilroygupta@gmail.com">
-  <img src="https://img.shields.io/badge/Email-swapnilroygupta%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white" />
+swapnilroygupta@gmail.com
 </a>
 
-<br><br><br>
+<br><br>
 
-💻 <b>GitHub</b>
+💻 **GitHub**
 
 <br>
 
 <a href="https://github.com/walkmancoding">
-  <img src="https://img.shields.io/badge/GitHub-walkmancoding-181717?style=flat-square&logo=github&logoColor=white" />
+walkmancoding
 </a>
 
 <br><br>
 
 </div>
+
