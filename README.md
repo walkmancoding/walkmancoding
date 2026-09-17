@@ -34,25 +34,14 @@ A detail-oriented Computer Science & Engineering undergraduate specializing in A
 💼 **Connect with me**
 
 <br>
-
 <a href="YOUR_LINKEDIN_URL">LinkedIn Profile</a>
-
 <br><br>
-
 📬 **How to reach me**
-
 <br>
-
 <a href="mailto:swapnilroygupta@gmail.com">swapnilroygupta@gmail.com</a>
-
 <br><br>
-
 💻 **GitHub**
-
 <br>
-
 <a href="https://github.com/walkmancoding">walkmancoding</a>
-
 <br>
-
 </div>
