@@ -10,36 +10,19 @@ A Computer Science & Engineering student specializing in Cybersecurity who enjoy
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,react,nodejs,mysql,mongodb,flask,tensorflow,pytorch,git,github,aws,gcp" />
 </p>
 
-<br>
-
-🎵 Music Production &nbsp;&nbsp;&nbsp; 🎸 Songwriting &nbsp;&nbsp;&nbsp; 🤖 Artificial Intelligence &nbsp;&nbsp;&nbsp; 💻 Coding
-
 <br><br>
 
 ### Links
 
-<br>
-
 💼 **Connect with me**
-
-<br>
-
 <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
 
-<br><br>
-
-📬 **How to reach me**
-
 <br>
-
+📬 **How to reach me**
 <a href="mailto:swapnilroygupta@gmail.com">swapnilroygupta@gmail.com</a>
 
-<br><br>
-
-🚀 **Currently working on**
-
 <br>
-
+🚀 **Currently working on**
 <a href="YOUR_HARMONIX_LINK">HARMONIX — Euphonic Intelligence</a>
 
 </div>
