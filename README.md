@@ -4,18 +4,34 @@ A detail-oriented Computer Science & Engineering undergraduate specializing in A
 
 <br>
 
+<p>
+  <b>🎓 9.44 CGPA</b>
+  &nbsp; • &nbsp;
+  <b>💼 2 Internships</b>
+  &nbsp; • &nbsp;
+  <b>📄 Research Paper</b>
+  &nbsp; • &nbsp;
+  <b>🧠 96% ML Accuracy</b>
+  &nbsp; • &nbsp;
+  <b>🧬 99.89% PPI Accuracy</b>
+</p>
+
+<br>
+
 ### Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nextjs,nodejs,arduino,aws,git,github,ai,matlab" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nextjs,nodejs,arduino,aws,git,github" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,opencv,pytorch,sklearn,tensorflow,gcp,ps" />
+  <img src="https://skillicons.dev/icons?i=matlab,mongodb,mysql,opencv,oracle,powerbi,pytorch,sklearn,tensorflow,gcp" />
 </p>
-<br>
 
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai" />
+</p>
+
 <br>
 
 🎤 Singing &nbsp;&nbsp; • &nbsp;&nbsp;
@@ -23,25 +39,28 @@ A detail-oriented Computer Science & Engineering undergraduate specializing in A
 🎨 Graphic Design &nbsp;&nbsp; • &nbsp;&nbsp;
 🤖 Artificial Intelligence
 
-<br><br><br>
-
-<br>
+<br><br>
 
 ### 🔗 Links
 
 <br>
 
-💼 **Connect with me**
+💼 <b>Connect with me</b>
+&nbsp;&nbsp; <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+&nbsp;&nbsp; • &nbsp;&nbsp;
 
-<br>
-<a href="YOUR_LINKEDIN_URL">LinkedIn Profile</a>
+💻 <b>GitHub</b>
+&nbsp;&nbsp; <a href="https://github.com/walkmancoding">walkmancoding</a>
+
 <br><br>
-📬 **How to reach me**
-<br>
-<a href="mailto:swapnilroygupta@gmail.com">swapnilroygupta@gmail.com</a>
+
+📬 <b>Email</b>
+&nbsp;&nbsp; <a href="mailto:swapnilroygupta@gmail.com">swapnilroygupta@gmail.com</a>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+
+🧩 <b>LeetCode</b>
+&nbsp;&nbsp; <a href="https://leetcode.com/u/swapnilroygupta/">swapnilroygupta</a>
+
 <br><br>
-💻 **GitHub**
-<br>
-<a href="https://github.com/walkmancoding">walkmancoding</a>
-<br>
+
 </div>
