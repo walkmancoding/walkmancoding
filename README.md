@@ -25,6 +25,8 @@ A detail-oriented Computer Science & Engineering undergraduate specializing in A
 
 <br><br><br>
 
+<br>
+
 ### 🔗 Links
 
 <br>
@@ -33,7 +35,7 @@ A detail-oriented Computer Science & Engineering undergraduate specializing in A
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+<a href="YOUR_LINKEDIN_URL">LinkedIn Profile</a>
 
 <br><br>
 
@@ -41,9 +43,7 @@ A detail-oriented Computer Science & Engineering undergraduate specializing in A
 
 <br>
 
-<a href="mailto:swapnilroygupta@gmail.com">
-swapnilroygupta@gmail.com
-</a>
+<a href="mailto:swapnilroygupta@gmail.com">swapnilroygupta@gmail.com</a>
 
 <br><br>
 
@@ -51,11 +51,8 @@ swapnilroygupta@gmail.com
 
 <br>
 
-<a href="https://github.com/walkmancoding">
-walkmancoding
-</a>
+<a href="https://github.com/walkmancoding">walkmancoding</a>
 
-<br><br>
+<br>
 
 </div>
-
