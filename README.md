@@ -20,17 +20,11 @@ A detail-oriented Computer Science & Engineering undergraduate specializing in A
 
 ### Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nextjs,nodejs,arduino,aws,git,github" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab,mongodb,mysql,opencv,oracle,powerbi,pytorch,sklearn,tensorflow,gcp" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nextjs,nodejs,arduino,aws,git,github,ai,matlab,mongodb,mysql,opencv,oracle,powerbi,pytorch,sklearn,tensorflow,gcp,ps,illustrator" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai" />
-</p>
+</div>
 
 <br>
 
